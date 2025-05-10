@@ -206,7 +206,7 @@ Markdown syntax:
 
 # 💃🏻 Demo {.demo}
 
-[`1-html-demo.qmd` ](https://github.com/jadeynryan/slc-rug-quarto/blob/main/demos/1-html-demo.qmd)
+[`0-html-demo.qmd` ](https://github.com/derisiswara/belajarR-quarto/blob/main/0-html-demo.qmd)
 
 
 ## Three ways to render
