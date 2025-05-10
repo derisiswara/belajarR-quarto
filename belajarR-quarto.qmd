@@ -206,7 +206,7 @@ Markdown syntax:
 
 # 💃🏻 Demo {.demo}
 
-[`0-html-demo.qmd` ](https://github.com/derisiswara/belajarR-quarto/blob/main/0-html-demo.qmd)
+[`0-html-demo.qmd` ](https://github.com/derisiswara/belajarR-quarto/blob/main/demos/0-html-demo.qmd)
 
 
 ## Three ways to render
@@ -319,11 +319,24 @@ Deklarasikan [**aturan CSS**](https://www.w3schools.com/css/css_syntax.ASP) di b
 
 [Emil Hvitfeldt's Slidecraft 101 Series](https://emilhvitfeldt.com/blog)
 
+# Demo Slides (Presentation) with Framework Revealjs {.demo}
 
-# 💃🏻 Demo Dashboard {.demo}
+This presentation is created using Quarto with the Revealjs framework.
+[github.com/derisiswara/belajarR-quarto](https://github.com/derisiswara/belajarR-quarto)
 
-[`2-params-demo.qmd`](https://github.com/jadeynryan/slc-rug-quarto/blob/main/demos/2-params-demo.qmd)
+# Demo Website {.demo}
 
+[Komunitas belajaR](https://derisiswara.quarto.pub/komunitas-belajar-r/)
+
+[Personal Web](https://derisiswara.org)
+
+[Workshop Site](https://derisiswara.quarto.pub/workshop-r/)
+
+# Demo Dashboard {.demo}
+
+[github.com/derisiswara/dashboard-quarto-omnitest](https://github.com/derisiswara/dashboard-quarto-omnitest)
+
+🌐[Dashboard Site](https://01969522-1355-9b04-c2da-46e09a474dcd.share.connect.posit.cloud/)
 
 ## Thank you!
 
@@ -331,11 +344,11 @@ Deklarasikan [**aturan CSS**](https://www.w3schools.com/css/css_syntax.ASP) di b
 ::: {.column width="50%"}
 🏡 **Slides**:
 
-[jadeyryan.quarto.pub/slc-rug-quarto/](https://jadeyryan.quarto.pub/slc-rug-quarto/)
+[derisiswara.quarto.pub/dasar-quarto/](https://derisiswara.quarto.pub/dasar-quarto/)
 
 👩🏻‍💻 **Source code**:
 
-[github.com/jadeynryan/slc-rug-quarto](https://github.com/jadeynryan/slc-rug-quarto)
+[github.com/derisiswara/belajarR-quarto](https://github.com/derisiswara/belajarR-quarto)
 
 :::
 

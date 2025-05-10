@@ -1,4 +1,4 @@
-- source: slc-rug-quarto-slides.qmd
+- source: belajarR-quarto.qmd
   quarto-pub:
-    - id: 4dcadb64-9a40-45ef-9b9a-83d0f10b21f6
-      url: 'https://jadeyryan.quarto.pub/slc-rug-quarto'
+    - id: 967eb120-a88b-4760-a68e-21e3d7e3437d
+      url: https://derisiswara.quarto.pub/dasar-quarto
