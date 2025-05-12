@@ -1,0 +1,22 @@
+---
+title: "Dasar-Dasar Pemanfaatan Quarto R<br>![](images/logo-quarto.png){width=3em}"
+author: "Deri Siswara // Mei 11, 2025<br>Komunitas belajaR"
+execute: 
+  echo: true
+format:
+  revealjs:
+    width: 1600
+    height: 900
+    theme: slides.scss
+    highlight-style: a11y
+    transition: fade
+    incremental: false
+    slide-number: true
+revealjs-plugins:
+  - pointer
+---
+
+# Machine Learning {.section}
+
+# Outliers {.demo}
+

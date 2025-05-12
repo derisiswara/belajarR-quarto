@@ -14,6 +14,7 @@ format:
     transition: fade
     incremental: false
     slide-number: true
+    pdf-separate-fragments: true
 revealjs-plugins:
   - pointer
 ---
@@ -204,7 +205,7 @@ Markdown syntax:
 2.    Jalankan code chunk saat ini dengan `Cmd`/`Ctrl` + `Shift` + `Enter`.
 :::
 
-# 💃🏻 Demo {.demo}
+# Demo {.demo}
 
 [`0-html-demo.qmd` ](https://github.com/derisiswara/belajarR-quarto/blob/main/demos/0-html-demo.qmd)
 
@@ -336,17 +337,17 @@ This presentation is created using Quarto with the Revealjs framework.
 
 [github.com/derisiswara/dashboard-quarto-omnitest](https://github.com/derisiswara/dashboard-quarto-omnitest)
 
-🌐[Dashboard Site](https://01969522-1355-9b04-c2da-46e09a474dcd.share.connect.posit.cloud/)
+[Dashboard Site](https://01969522-1355-9b04-c2da-46e09a474dcd.share.connect.posit.cloud/)
 
 ## Thank you!
 
 ::: columns
 ::: {.column width="50%"}
-🏡 **Slides**:
+**Slides**:
 
 [derisiswara.quarto.pub/dasar-quarto/](https://derisiswara.quarto.pub/dasar-quarto/)
 
-👩🏻‍💻 **Source code**:
+**Source code**:
 
 [github.com/derisiswara/belajarR-quarto](https://github.com/derisiswara/belajarR-quarto)
 
